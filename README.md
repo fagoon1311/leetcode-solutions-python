@@ -41,7 +41,7 @@ leetcode-solutions/
 
 | Difficulty | Solved |
 | ---------- | ------ |
-| Easy       | 1 ✅    |
+| Easy       | 3 ✅    |
 | Medium     | 2 ✅    |
 | Hard       | 0 ✅    |
 
